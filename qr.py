@@ -28,8 +28,8 @@ def generate_wifi_qrcode_with_logo(ssid, password, logo_path, output_path):
 # WiFi bilgilerini ve logo dosya yolunu burada değiştirin
 ssid = "Misafir"
 password = "Msfr123654mM!*"
-logo_path = "karaca.png"
-output_path = "karaca.png"
+logo_path = "karacaLogo.png"
+output_path = "karacaQR.png"
 
 
 generate_wifi_qrcode_with_logo(ssid, password, logo_path, output_path)
