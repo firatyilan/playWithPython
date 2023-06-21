@@ -1,4 +1,3 @@
-# playWithPython
 My Python projects I created for hobby
 
 First of all, python must be installed in order for python codes to run on your computer.
